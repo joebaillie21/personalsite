@@ -14,6 +14,14 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 I am making this website for my Software Engineering course. More information regading the department cna be found [here](https://www.rit.edu/computing/department-software-engineering). For course specific information, click [here](http://www.se.rit.edu/~swen-101/00/index.html).
 
-### Support or Contact
+### What I Want to Learn
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Going forward in my first software engineering course I would like to learn the following:
+* How to work with requirements others provide me
+* How to come up with creative solutions when creativity might not be encouraged
+* How to be a more effective leader
+  * Also when it is important to be a follower
+* How to communicate with a team of developers
+* Good forms of professional communication
+* Expectations of software engineers
+* Networking (not the computer kind)
